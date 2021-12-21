@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "149185559530",
+    "project_id": "servicom-a1e63",
+    "storage_bucket": "servicom-a1e63.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:149185559530:android:d8baf7792e0b849b2d9093",
+        "android_client_info": {
+          "package_name": "com.servicom.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "149185559530-v67ot3kgsjn8lgtvr54uffcencj7j8oa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAKHHJNbdmvvANzsA3wYaTH7O5_ZJTOr4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "149185559530-v67ot3kgsjn8lgtvr54uffcencj7j8oa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
